@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.exe
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.deps.json
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.runtimeconfig.json
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.dll
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\bin\Debug\netcoreapp3.1\Practica RPG 1.pdb
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\obj\Debug\netcoreapp3.1\Practica RPG 1.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\obj\Debug\netcoreapp3.1\Practica RPG 1.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\obj\Debug\netcoreapp3.1\Practica RPG 1.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\obj\Debug\netcoreapp3.1\Practica RPG 1.dll
+C:\Users\rafae\source\repos\Practica RPG 1\Practica RPG 1\obj\Debug\netcoreapp3.1\Practica RPG 1.pdb
